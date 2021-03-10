@@ -9,4 +9,4 @@
 
 ### Find me
 
-<a href="https://linkedin.com/in/leonardoulisses" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="leonardoulisses"/>
+<a href="https://linkedin.com/in/leonardoulisses" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Leonardo Holanda LinkedIn Profile"/>
