@@ -1,5 +1,5 @@
 # Hi, I'm Leonardo
-*Third year Information Systems student at Federal University of Alagoas and aspiring software developer.*
+*Third year Information Systems student at Federal University of Alagoas and aspiring Full Stack Developer.*
 
 #### Passionate about programming and the power it has to make people's life easier and better.
 
