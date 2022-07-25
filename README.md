@@ -6,14 +6,15 @@ I'm working as a web developer intern at [NINC](https://github.com/ninc-manageme
 - TypeScript
 - Angular
 - Express and Node.js
-- MongoDB.
+- MongoDB
 
-### :mortar_board: Studying
+### :mortar_board: Improving at
 
-- Ways to make my code better. Software design principles, clean code and best pratices are some things I'm into.
+- Ways to make my code better for me and for others. Software design principles, clean code and best pratices are some things I'm into.
+- Asynchronous programming with Observer pattern and how to solve its problems with RxJS.
 - English language, especially writing and speaking skills.
 
-### Some facts about me
+#### Some facts about me
 
 - :palm_tree: I love to spend time in nature and where I live this means some of the world's most beautiful beaches.
 - :notes: Music is essential for me. [This](https://open.spotify.com/playlist/0mA4liunPWnnlPCamzDe6r?si=0397e5acdeca4a85) is what I usually listen to.
