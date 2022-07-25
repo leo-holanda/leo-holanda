@@ -1,6 +1,6 @@
 # Hi, I'm Leonardo!
 
-I'm working as a web developer intern at NINC, graduating in Information Systems at UFAL and currently based in Maceió, AL, Brazil.
+I'm working as a web developer intern at [NINC](https://github.com/ninc-management), graduating in Information Systems at UFAL and currently based in Maceió, AL, Brazil.
 
 ### :hammer_and_wrench: Working with
 - TypeScript
