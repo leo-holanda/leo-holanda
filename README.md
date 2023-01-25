@@ -1,8 +1,10 @@
 # Hi, I'm Leonardo!
 
-I'm working as a web developer intern at [NINC](https://github.com/ninc-management), graduating in Information Systems at UFAL and currently based in Maceió, AL, Brazil.
+- I'm a web developer who recently graduated in Information Systems from Federal University of Alagoas (UFAL).
+- As an intern in web development at [NINC](https://github.com/ninc-management), I was part of a team that develops a business management software using MEAN stack. 
+- In my graduation thesis, I proposed and assessed a software that help researchers to conduct educational experiments in online learning environments. I was also part of a team that developed this software using Vue.js and PHP/Laravel.
 
-### :hammer_and_wrench: Working with
+### :hammer_and_wrench: Familiar with
 - TypeScript
 - Angular
 - Express and Node.js
@@ -16,11 +18,13 @@ I'm working as a web developer intern at [NINC](https://github.com/ninc-manageme
 
 #### Some facts about me
 
-- :palm_tree: I love to spend time in nature and where I live this means some of the world's most beautiful beaches.
-- :notes: Music is essential for me. [This](https://open.spotify.com/playlist/0mA4liunPWnnlPCamzDe6r?si=0397e5acdeca4a85) is what I usually listen to.
-- :open_book: I'm currently reading Anne Karenina by Leo Tolstoy and my favorite author is Carlos Ruiz Zafón. Reading is just awesome!
-- :clapper: I really like cinema, especially Denis Villeneuve's movies.
-- :video_game: Skyrim with mods is the best game I've played. Skyrim without mods is the second. 
+:palm_tree: I love to spend time in nature and where I live this means some of the world's most beautiful beaches.
+
+:runner: I'm a aspiring marathon runner.
+
+:musical_note: Music is essential for me. [This](https://open.spotify.com/playlist/0mA4liunPWnnlPCamzDe6r?si=0397e5acdeca4a85) is what I usually listen to.
+
+:nerd_face: I also like reading, cinema and gaming.
 
 [![Leo Holanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-holanda&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
