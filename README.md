@@ -1,7 +1,7 @@
 # Hi, I'm Leonardo!
 
 - I'm a web developer who recently graduated in Information Systems from Federal University of Alagoas (UFAL).
-- As an intern in web development at [NINC](https://github.com/ninc-management), I was part of a team that develops a business management software using MEAN stack. 
+- As an intern in web development at [NINC](https://github.com/ninc-management), I was part of a team that develops a business management software using MEAN stack and Socket.IO. 
 - In my graduation thesis, I proposed and assessed a software that help researchers to conduct educational experiments in online learning environments. I was also part of a team at [NEES](https://github.com/nees-ufal) that developed this software using Vue.js and PHP/Laravel.
 
 ### :hammer_and_wrench: Familiar with
