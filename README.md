@@ -9,9 +9,11 @@
 
 ### :hammer_and_wrench: Familiar with
 - TypeScript
+- Python
 - Angular
-- Express and Node.js
-- MongoDB
+- Node.js, Express and Flask
+- MongoDB and PostgreSQL
+- AWS and GCP
 
 ### Find me
 
